@@ -1,4 +1,4 @@
-package org.csystem.app;
+package com.erbaris.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

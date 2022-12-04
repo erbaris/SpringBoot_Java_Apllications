@@ -33,6 +33,11 @@
 		</dependency>
 
 
+		<dependency>
+			<groupId>org.csystem</groupId>
+			<artifactId>org-csystem-util</artifactId>
+			<version>8.4.0</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.csystem</groupId>
